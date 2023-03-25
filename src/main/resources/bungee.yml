@@ -1,0 +1,7 @@
+name: AloniaBeta
+version: '${project.version}'
+main: eu.alonia.aloniabeta.AloniaBeta
+depends:
+  - AloniaCore
+description: Alonia Beta Plugin
+author: Alonia Development

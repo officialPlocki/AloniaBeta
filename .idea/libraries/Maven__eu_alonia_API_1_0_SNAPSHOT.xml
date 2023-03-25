@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: eu.alonia:API:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/alonia/API/1.0-SNAPSHOT/API-1.0-20230317.193917-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/alonia/API/1.0-SNAPSHOT/API-1.0-20230317.193917-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/alonia/API/1.0-SNAPSHOT/API-1.0-20230317.193917-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
